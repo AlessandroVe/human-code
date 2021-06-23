@@ -1,0 +1,56 @@
+Problema Principe     //Ti sei appena svegliato, è il momento di bere un bicchiere di latte caldo//
+
+//-------------------------------//
+problema 1 // spegnere Alexa 
+var flag= falsa ;
+while ( output !=== "alexa stop"){
+    prompt("")
+    flag= true;
+}
+problema 2  //  uscire dalla stanza
+// contrazzione addome 
+// contrazzione gambe 
+// contrazione  glutei
+while( io non saro fuori dalla stanza ){
+    camminare()
+}
+// sbatto il piede sullo spigolo del mobile
+while( dimensione diaframma minimo < dimensione diaframma massimo){
+    espirazione()
+}
+if (dimensione diaframma minimo === dimensione diaframma massimo){
+    urla di dolore()
+}
+problema 3 // arrivare in cucina
+while( non saro arrivato in cucina  ){
+    camminare()
+}
+problema 4 // arrivare al frigo 
+while( non saro arrivato al frigo ){
+    camminare()
+}
+problema 5 // prendere il latte 
+ stendere il braccio 
+ afferrare la maniglia 
+ tirarela la maniglia 
+ cercare il latte 
+ afferrare il latte 
+ allontanarsi dal frigo
+ chiudere il frigo
+
+problema 6 // riscaldare il latte 
+
+arrivo al microonde 
+ riempio un bicchiede di latte 
+ lo inserisco nel microonde 
+ chiudere il microonde
+ settare il micro 
+ aspettare
+ prendere il bicchiere 
+ bere 
+
+
+
+
+
+
